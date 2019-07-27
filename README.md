@@ -1,5 +1,6 @@
 # Apple-Pie
 *iOS iPad game app that is similar to Hangman.*
+
 I created this app as a part of my learning under ***App Development with Swift***
 
 ## How the game works:
